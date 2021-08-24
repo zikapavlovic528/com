@@ -1,6 +1,7 @@
 {
   "name": "artsap/composer_package",
   "minimum-stability": "stable",
+  "license": "MIT",
   "authors": [
     {
       "name": "Супермутант",

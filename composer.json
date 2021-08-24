@@ -1,6 +1,6 @@
 {
   "name": "artsap/composer_package",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Супермутант",

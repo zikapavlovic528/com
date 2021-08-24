@@ -1,6 +1,5 @@
 <?php
 
-
 namespace Otus;
 
 class Package {

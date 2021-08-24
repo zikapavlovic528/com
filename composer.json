@@ -6,5 +6,10 @@
       "name": "Супермутант",
       "email": "work@artsap.ru"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Otus\\" : "src/Otus"
+    }
+  }
 }

@@ -1,8 +1,5 @@
 {
   "name": "artsap/conposer_package",
-  "description": "Тестовый пакет",
-  "minimum-stability": "stable",
-  "license": "proprietary",
   "authors": [
     {
       "name": "Супермутант",

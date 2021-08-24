@@ -5,8 +5,5 @@
       "name": "Супермутант",
       "email": "work@artsap.ru"
     }
-  ],
-  "require": {
-    "php": ">=5.0"
-  }
+  ]
 }

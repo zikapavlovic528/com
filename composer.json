@@ -1,0 +1,16 @@
+{
+  "name": "artsap/conposer_package",
+  "description": "Тестовый пакет",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Супермутант",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "another-vendor/package": "1.*"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "artsap/conposer_package",
   "description": "Тестовый пакет",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {

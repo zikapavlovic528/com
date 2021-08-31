@@ -1,19 +1,19 @@
 {
   "name": "artsap/composer_package",
   "description": "first package",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "artsap",
       "email": "work@artsap.ru"
     }
   ],
-  "license": "LGPL-3.0-or-later",
   "autoload": {
     "psr-4": {
       "Otus\\": "src/Otus"
-    },
-    "require": {
-      "php": ">=5.3"
     }
+  },
+  "require": {
+    "php": ">=5.3"
   }
 }

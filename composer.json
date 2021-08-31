@@ -9,7 +9,7 @@
   ],
   "license": "LGPL-3.0-or-later",
   "autoload": {
-    "PSR-4": {
+    "psr-4": {
       "Otus\\": "src/Otus"
     },
     "require": {

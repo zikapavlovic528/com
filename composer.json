@@ -1,11 +1,13 @@
 {
   "name": "artsap/composer_package",
+  "description": "first package",
   "authors": [
     {
-      "name": "Супермутант",
+      "name": "artsap",
       "email": "work@artsap.ru"
     }
   ],
+  "license": "LGPL-3.0-or-later",
   "autoload": {
     "psr-4": {
       "Otus\\": "src/Otus"
